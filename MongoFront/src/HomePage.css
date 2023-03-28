@@ -1,0 +1,97 @@
+#boxBig {
+  margin: 2rem auto auto auto;
+  padding: 2rem;
+  width: 620px;
+  background: #ffffff;
+  border: 1px solid #ebebeb;
+  box-shadow: rgba(0, 0, 0, 0.07)-7px 7px;
+  z-index: 1;
+  -webkit-border-bottom-right-radius: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+  min-height: 400px;
+}
+#izboroglasa {
+  margin-left: 3rem;
+}
+#showurads1 {
+  margin-right: 30px;
+}
+#showurads2 {
+  margin-right: 30px;
+}
+#barBig {
+  position: absolute;
+  margin-top: -2.1rem;
+  margin-left: -2.1rem;
+  padding: 0.2rem;
+  padding-right: 0.2rem;
+  text-align: right;
+  width: 620px;
+  height: 20px;
+  background: #e8e8e8;
+  border: 1px solid #ebebeb;
+  -webkit-border-top-left-radius: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  -moz-border-radius-topright: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.bartitleBig {
+  float: left;
+  font-weight: bold;
+  color: #666666;
+}
+.bartitleBig:first-letter {
+  text-decoration: underline;
+}
+
+.divad {
+  border: 1px solid #ebebeb;
+  border-radius: 3px;
+  padding: 2rem;
+}
+
+#rbHome {
+  display: block;
+  margin: 0 auto;
+}
+label {
+  display: inline-block;
+  padding-right: 10px;
+}
+#oglasiprikazdugmici {
+  display: inline-block;
+}
+
+textarea {
+  resize: none;
+  border: 1px solid #ebebeb;
+  border-radius: 3px;
+}
+.sakrij {
+  display: none;
+}
+.prikazi {
+  display: inline-block;
+}
+.nekiDiv {
+  display: inline;
+}
+.card {
+  display: inline-block;
+  margin-left: 2rem;
+}
+.dugmad {
+  display: inline-block;
+  float: right;
+  margin-top: 1rem;
+  margin-right: 2rem;
+}
