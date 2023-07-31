@@ -1,9 +1,9 @@
 # Students that contributed to making this project
 
-- Anastasija Cvetković 18033
-- Katarina Cvetković 18038
-- Marija Cvetković 18039
-- Teodora Cvetković 18040
+- Anastasija Cvetković 18033 (frontend, backend)
+- Katarina Cvetković 18038 (backend)
+- Marija Cvetković 18039 (backend)
+- Teodora Cvetković 18040 (frontend, backend)
 ## Requirements for backend
 ### Technologies:
 - install [.NET 6]( https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
