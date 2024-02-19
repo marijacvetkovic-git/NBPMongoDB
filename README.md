@@ -1,9 +1,9 @@
 # Students that contributed to making this project
 
-- Anastasija Cvetković 18033
-- Katarina Cvetković 18038
-- Marija Cvetković 18039
-- Teodora Cvetković 18040
+- Anastasija Cvetković 18033 (frontend, backend)
+- Katarina Cvetković 18038 (backend)
+- Marija Cvetković 18039 (backend)
+- Teodora Cvetković 18040 (frontend, backend)
 ## Requirements for backend
 ### Technologies:
 - install [.NET 6]( https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
@@ -31,7 +31,7 @@ You may also see any lint errors in the console.
 ## Welcome page
 ![1](https://user-images.githubusercontent.com/101969164/228252863-38895976-136b-4c87-97ab-cae8837c9b49.jpg)
 
-## Register
+## Register 
 ![2](https://user-images.githubusercontent.com/101969164/228252267-d8c7a3bf-b54d-41be-8c08-ee124a6dcbea.jpg)
 ![3](https://user-images.githubusercontent.com/101969164/228252280-e6c739f1-3052-41c8-b525-ade62459e50b.jpg)
 
